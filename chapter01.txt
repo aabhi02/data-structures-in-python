@@ -1,0 +1,5 @@
+This book covers a lot of ground quickly, without taking any shortcuts.
+The concepts are motivated and start with simple examples.
+Introducing the minimum necessary knowledge to make interesting programs and learn useful concepts is not taking shortcuts, it’s just being directed.
+The aim of this book is cover many of these topics as part of an integrated course.
+The complex part is that many other concepts including problem solving strategies, more advanced Python, object-oriented design principles, and testing methodologies are introduced bit by bit throughout the text in a logical, incremental way.
