@@ -4,6 +4,11 @@ This repository is based on the book [A First Course On Data Structures in Pytho
 The book has both theoretical and practical explanations.<br>
 In this repository we can find the source code of all the chapters in the book.<br>
 This repo will also help in quick glance of data-structures.<br>
+
+Requirements:<br>
+- Python 3.9.*
+- Install ds2 use ```pip install ds2```
+
 Here are some websites where you can visualize your written code:
 - [PythonTutor](https://pythontutor.com/visualize.html#mode=edit) to visualize your own code.
 - [Visualgo](https://visualgo.net/en) to visualize the algorithms.
