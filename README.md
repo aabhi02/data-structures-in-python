@@ -13,4 +13,4 @@ Here are some websites where you can visualize your written code:
 - [PythonTutor](https://pythontutor.com/visualize.html#mode=edit) to visualize your own code.
 - [Visualgo](https://visualgo.net/en) to visualize the algorithms.
 - [Linked List Visualization](https://antoniosarosi.github.io/Linked-List-Visualization/) to visualize linked lists.
-- [Hash Map/Hash Table Visualisastion](https://visualgo.net/en/hashtable)
+- [Hash Map/Hash Table Visualization](https://visualgo.net/en/hashtable) to visualize HashMaps
