@@ -6,7 +6,7 @@ In this repository we can find the source code of all the chapters in the book.<
 This repo will also help in quick glance of data-structures.<br>
 
 Requirements:<br>
-- Python 3.10.* (this codebase has been developed and tested for Python 3.10.*, although it should work from 3.9.\* without any issues.)
+- Python 3.10.* (this codebase has been developed and tested for Python 3.10.*, although it should work from 3.9 without any issues.)
 - Install ds2 use ```pip install ds2```
 
 Here are some websites where you can visualize your written code:
