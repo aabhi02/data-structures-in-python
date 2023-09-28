@@ -14,4 +14,4 @@ Here are some websites where you can visualize your written code:
 - [Visualgo](https://visualgo.net/en) to visualize the algorithms.
 - [Linked List Visualization](https://antoniosarosi.github.io/Linked-List-Visualization/) to visualize linked lists.
 - [Hash Map/Hash Table Visualization](https://visualgo.net/en/hashtable) to visualize HashMaps.
-- [Binary Search Trees/AVL Tree](https://visualgo.net/en/bst)
+- [Binary Search Trees/AVL Tree](https://visualgo.net/en/bst) to visualize binary search trees and avl trees
